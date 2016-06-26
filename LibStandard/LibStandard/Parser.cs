@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace LibStandard
 {
+    /// <summary>
+    /// The ultimate parser
+    /// </summary>
     public class Parser
     {
         /// <summary>
